@@ -24,21 +24,12 @@ Skills: PYTHON / GOLANG / HTML / CSS / JS / PHP / RUBY / C / CPP
 <img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="20" alt="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-
+</code>
 <br>
 <br>
-
-
-
-
-
 | <a href="https://github.com/Saad-Ayady"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saad-Ayady&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Ayady&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 #### Top Repositories
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-ayady&repo=go-reloaded&theme=buefy" />
 </a>

@@ -17,8 +17,9 @@ Skills: PYTHON / GOLANG / HTML / CSS / JS / PHP / RUBY / C / CPP
 <br>
 <a href="https://github.com/Saad-Ayady"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saad-Ayady&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Ayady&layout=compact&theme=buefy&hide_border=true" /></a>
 <br>
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-<br>
+
 # Top Repositories :
 
 <br>

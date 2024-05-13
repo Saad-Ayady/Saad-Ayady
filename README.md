@@ -28,6 +28,6 @@ Skills: PYTHON / GOLANG / HTML / CSS / JS / PHP / RUBY / C / CPP
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-Ayady&repo=ascii-art&theme=buefy" />
 </a>
 <br>
-<a>
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-</a>
+

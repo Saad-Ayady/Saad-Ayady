@@ -26,7 +26,7 @@ Skills: PYTHON / GOLANG / HTML / CSS / JS / PHP / RUBY / C / CPP
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-ayady&repo=go-reloaded&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-ayady&repo=dyBlack404&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-Ayady&repo=ascii-art&theme=buefy" />

@@ -51,7 +51,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/SaadAyady" target="blank"><img align="center" src="https://img.icons8.com/avantgarde/100/twitter.png" alt="nadwa" height="50" width="50" /></a>    
-<a href="https://www.linkedin.com/in/saad-ayady-132068266/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="nadwa" height="50" width="50" /></a>    
+<a href="https://www.linkedin.com/in/saad-ayady-b445042a1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="nadwa" height="50" width="50" /></a>    
 <a href="SaadAyady" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="nadwa" height="50" width="50" /></a>
 </p>
 
